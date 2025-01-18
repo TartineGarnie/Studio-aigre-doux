@@ -210,8 +210,13 @@ p{
 
 @media (max-width: 640px) {
     .logo{
+    	display:flex;
+	justify-content:center;
+	align-items: center;
+	padding-bottom: 30px;
+  	margin:auto;
+  	margin-top: 20px;
     	width: 5%;
-        margin-left: 16%;
     }
   }
 
