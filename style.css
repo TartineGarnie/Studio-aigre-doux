@@ -94,7 +94,7 @@ h1 a:hover{
   color: #3fab35;
 }
 
-@media only screen and (max-width: 640px) {
+@media (max-width: 640px) {
     h1{
         font-size: 12px;
     }
@@ -109,7 +109,7 @@ img{
   margin-top: 20px;
 }
 
-@media only screen and (max-width: 640px) {
+@media (max-width: 640px) {
     img{
         width: 95%;
     }
@@ -125,7 +125,7 @@ h2{
 	margin: auto;
 }
 
-@media only screen and (max-width: 640px) {
+@media (max-width: 640px) {
     h2{
         font-size: 20px;
         padding-left: 100px;
@@ -171,7 +171,7 @@ p{
 	padding-right: 300px;
 }
 
-@media only screen and (max-width: 640px) {
+@media (max-width: 640px) {
     p{
         font-size: 16px;
         padding-right: 150px;
@@ -208,7 +208,7 @@ p{
   margin-left: 34.5%;
 }
 
-@media only screen and (max-width: 640px) {
+@media (max-width: 640px) {
     .logo{
     	width: 5%;
         margin-left: 16%;
@@ -220,13 +220,13 @@ p{
   margin-bottom: 50px;
 }
 
-@media only screen and (max-width: 640px) {
+@media (max-width: 640px) {
     .accueil{
         width: 90%;
     }
   }
 
-@media only screen and (max-width: 640px) {
+@media (max-width: 640px) {
     .contact{
         width: 80%;
     }
