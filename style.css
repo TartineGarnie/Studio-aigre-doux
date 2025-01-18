@@ -128,8 +128,8 @@ h2{
 @media (max-width: 640px) {
     h2{
         font-size: 18px;
-        padding-left: 100px;
-	    padding-right: 100px;
+        padding-left: 50px;
+	    padding-right: 50px;
 	    padding-top: 140px;
     }
   }
